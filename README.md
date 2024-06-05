@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**jimifash/jimifash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jimi Fashoyin, a data scientist and enthusiast 
 
-Here are some ideas to get you started:
+### Socials
+twitter: https://x.com/FashJimi46665
+Linkedin: https://www.linkedin.com/in/jimi-fashoyin-172829242/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimifash)](https://github.com/anuraghazra/github-readme-stats)
+
+### Tools
+> Python
+> numpy
+> pandas
+> scikit-learn
+> tensorflow
+> mysql
+> postgresql
+> anaconda
+> powerbi
+
+### hobby
+Basketball and table-tennis
+
+
+
